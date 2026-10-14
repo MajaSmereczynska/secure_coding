@@ -1,4 +1,4 @@
 # secure_coding
-Secure Coding 2026 Project
-GroupPay - mini-Splitwise, shared-expense API
+Secure Coding 2026 Project<br>
+GroupPay - mini-Splitwise, shared-expense API<br>
 working secure pipeline and working secure code
