@@ -1,0 +1,8 @@
+# requirements.txt — everything unpinned, as students often start (Lecture 14 fixes this)
+fastapi
+uvicorn
+requests
+pytest
+pyjwt
+pydantic
+python-multipart
