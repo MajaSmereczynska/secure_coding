@@ -1,8 +1,4 @@
 # secure_coding
-Secure Coding 2026 Project for a University Course<br>
-GroupPay - mini-Splitwise, shared-expense API<br>
-working secure pipeline and working secure code
-
 A shared-expense API (mini-Splitwise) used throughout the Secure Coding course.
 Do **not** deploy this app anywhere public: the code is not complete, 
 and it contains intentional flaws that we will be fixing during the course.
